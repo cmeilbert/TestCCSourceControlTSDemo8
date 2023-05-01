@@ -51,4 +51,18 @@
         <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=48cb22a5876aa110b77797573cbb350f"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Configuration Compliance">29691e1f0212471dad08668c1e39932b</claim_owner_scope>
+        <claim_timestamp>187d993893f0000001</claim_timestamp>
+        <metadata_update_name>sys_script_48cb22a5876aa110b77797573cbb350f</metadata_update_name>
+        <previous_claim_app_version>14.5.4</previous_claim_app_version>
+        <previous_claim_name>Configuration Compliance</previous_claim_name>
+        <previous_claim_scope>29691e1f0212471dad08668c1e39932b</previous_claim_scope>
+        <sys_created_by>colleen</sys_created_by>
+        <sys_created_on>2023-05-01 23:08:57</sys_created_on>
+        <sys_id>4efceae5876aa110b77797573cbb3591</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>colleen</sys_updated_by>
+        <sys_updated_on>2023-05-01 23:08:57</sys_updated_on>
+    </sys_claim>
 </record_update>
